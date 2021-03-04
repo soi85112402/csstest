@@ -4,7 +4,7 @@ cssTest
 Vanilla Easing
 -------------
 
-```
+```Javascript
 function scrollIt(destination, duration, easing, callback) {
 
     var easings = {
