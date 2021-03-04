@@ -95,7 +95,7 @@ function scrollIt(destination, duration, easing, callback) {
 -------------
 
 
-```
+```Javascript
 for (var scrollEl of document.getElementsByClassName('scroll')){
     scrollEl.addEventListener('click', function () {
         var target = this.getAttribute('data-scroll-target');
