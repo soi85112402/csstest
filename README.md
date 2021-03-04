@@ -1,7 +1,7 @@
 cssTest
 =============
 
-Vanilla Easing
+VanillaJs Easing
 -------------
 
 ```Javascript
